@@ -1,0 +1,6 @@
+git init
+git status
+git commit -m "message"
+git add . ("." to add every file ,we can use a name of the file also) 
+git cat file name (it will display the content of the file)
+git restore --staged file name(unod the previous commit)

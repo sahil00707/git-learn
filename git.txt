@@ -1,0 +1,15 @@
+git init
+git status
+git commit -m "message"
+git add . ("." to add every file ,we can use a name of the file also) 
+git cat file name (it will display the content of the file)
+git restore --staged file name(unod the previous commit)
+git log(shows the history)
+git reset hash-code(to get the previos project)
+git stash(backstage)
+git stash pop(reverse backstage)
+git remote add origin url
+gir push origin master
+git clone url
+git branch branch-name
+git checkout branch-name(to move to that branchs)
